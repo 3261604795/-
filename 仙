@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta name="auto" content='spider'>
+	<meta charset="UTF-8">
+	<title>仙工商24班旅行社</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/base.css">
+</head>
+<body>
+				<html>
+				
+				         <head>
+				
+				    <meta content="text/html" charset="UTF-8">
+				
+				    <title>HTML设置图片为页面背景</title>
+				
+				         </head>
+				
+				         <body background="F:\R.jfif"
+				
+				               style="background-repeat:no-repeat               
+				
+				               background-attachment:fixed;               
+				
+				               background-size:100% 100%; ">
+				
+				         </body></html>
+				</div>
+			<nav style='overflow:hidden;'>
+				<style>
+				  .none {
+				    text-align: center;
+				  }
+				    <!-- 这里是你的页面内容 -->
+				  </body>
+
+				</style>
+				<a href="#"><img src="F:\school.jpg" width="100" height="100" alt='仙工商24班旅行社'></a>
+				<h2 class="none"><a href="http://old.bxait.cn/">仙工商学院</a></h2>
+			<ul class="link">
+					<style>
+					  .none {
+					    text-align: center;
+					  }
+					</style>
+					
+					<body background="http://www.w3school.com.cn/clouds.gif">
+
+					<h2 class="none">首页</h2>
+					<hr>
+					<style>
+					  .none {
+					    text-align: center;
+					  }
+					</style>
+					
+					<h2 class="none"><a href="https://www.ctrip.com/">旅行咨询</a></h2>
+					<h2 class="none"><a href="https://pifa.pinduoduo.com/">滑板订购</a></h2>
+					<h2 class="none"><a href="https://tieba.baidu.com/p/7491622893">风景欣赏</a></h2>
+					<h2 class="none"><a href="https://baike.baidu.com/item/%E8%A5%BF%E5%AE%89%E5%B7%A5%E5%95%86%E5%AD%A6%E9%99%A2/4194947?fromtitle=%E8%A5%BF%E5%AE%89%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%8C%97%E6%96%B9%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2&fromid=8546981">公司简介</a></h2>
+
+				</ul>
+			</nav>
+		</div>
+	</header>
+	<div id="tour">
+		<section class='center'>
+			<h2 class="none">热门旅游</h2>
+			<p>图书馆旅游、操场旅游、呦呦餐厅旅游、文体馆旅游、大学生活动中心旅游等各种热门最新旅游推荐</p>
+		</section>
+		<figure>
+			<a href="#"><img src="F:\library.jpg" width="600" height="450" alt='仙工商24班旅行社'></a>
+			<figcaption><strong class='title'>&lt;图书馆提包6日游&gt;</strong>包团特惠，超丰富景点，升级1晚国五，无自费，更赠送9.9元/成人自费卷</figcaption>
+			<div>
+			<span class='price'>¥ <strong>99.9</strong> 起</span>
+			<em class='sat'>满意度100%</em>
+			</div>
+			<div class="type">
+				校内长线
+			</div>
+		</figure>
+		<hr>
+		
+		<figure>
+			<a href="#"><img src="F:\duck1.jpg" width="250" height="400" alt='仙工商24班旅行社'></a>
+			<figcaption><strong class='title'>&lt;北京烤鸭&gt;</strong>亲自为你炖鸭，清蒸、红烧、油炸（想你所想，包你满意）</figcaption>
+			<font color="pick">微信支付10分钟内上门为你送上烤鸭</font><br/>
+			</div>
+		</figure>
+		
+		<figure>
+			<a href="#"><img src="F:\school.jpg" width="40" height="40" alt='仙工商24班旅行社'></a>
+			<figcaption><strong class='title'>&lt;操场6日游&gt;</strong>包团特惠，超丰富景点，升级1晚国五，无自费，更赠送9.9元/成人自费卷</figcaption>
+			<div>
+			<span class='price'>¥ <strong>99.9</strong> 起</span>
+			<em class='sat'>满意度77%</em>
+			</div>
+			<div class="type">
+				校内长线
+			</div>
+		</figure>
+<hr>
+		<figure>
+			<a href="#"><img src="F:\school.jpg" width="40" height="40" alt='仙工商24班旅行社'></a>
+			<figcaption><strong class='title'>&lt;文体馆6日游&gt;</strong>包团特惠，超丰富景点，升级1晚国五，无自费，更赠送9.9元/成人自费卷</figcaption>
+			<div>
+			<span class='price'>¥ <strong>99.9</strong> 起</span>
+			<em class='sat'>满意度100%</em>
+			</div>
+			<div class="type">
+				校内长线
+			</div>
+		</figure>
+<hr>
+		<figure>
+			<a href="#"><img src="F:\school.jpg" width="40" height="40" alt='仙工商24班旅行社'></a>
+			<figcaption><strong class='title'>&lt;大学生活动中心6日游&gt;</strong>包团特惠，超丰富景点，升级1晚国五，无自费，更赠送9.9元/成人自费卷</figcaption>
+			<div>
+			<span class='price'>¥ <strong>99.9</strong> 起</span>
+			<em class='sat'>满意度100%</em>
+			</div>
+			<div class="type">
+				校内长线
+			</div>
+		</figure>
+		<hr>
+		<figure>
+			<a href="#"><img src="F:\school.jpg" width="40" height="40" alt='仙工商24班旅行社'></a>
+			<figcaption><strong class='title'>&lt;呦呦餐厅6日游&gt;</strong>包团特惠，超丰富景点，升级1晚国五，无自费，更赠送9.9元/成人自费卷</figcaption>
+			<div>
+			<span class='price'>¥ <strong>99.9</strong> 起</span>
+			<em class='sat'>满意度100%</em>
+			</div>
+			<div class="type">
+				校内长线
+			</div>
+		</figure>
+		<hr>
+		<footer id='foot'>
+			<div class="top">
+				<div class="block left ">
+					<h2>合作伙伴</h2>
+					<hr>
+					<ul>
+						<font color="red">康总旅游网：phone 15672898201</font><br/>
+						<font color="red">李总旅游网：phone 13571440953</font><br/>
+						<font color="red">杨总旅游网：phone 15575675356</font><br/>
+					</ul>
+				</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<hr>
+				仙工商24班旅行社 | http://old.bxait.cn/ | 旅行经营许可证<br/>Copyright © 2023 仙工商. 当前版本 V9.9.99
+仙工商 版权所有 闽ICP备88888888号-8
+				
+				</div>
+		</footer>
+</body>
+</html>
